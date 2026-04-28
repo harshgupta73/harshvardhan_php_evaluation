@@ -64,7 +64,7 @@
             >
                 <form action="" method="POST">
                     <div class="card">
-                        <div class="card-header text-center">Register with Us!</div>
+                        <div class="card-header text-center">Login!</div>
                         <div class="card-body">
 
                             <div class="mb-3">
