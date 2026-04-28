@@ -1,2 +1,15 @@
 # harshvardhan_php_evaluation
-#Restaurant management system
+# Restaurant management system
+
+📸 Screenshots
+
+### Register
+![Register](images/register.png)
+
+### Login
+![Login](images/login.png)
+
+### Menu
+![Add Menu](images/addmenu.png)
+![View Menu](images/viewmenu.png)
+

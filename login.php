@@ -1,8 +1,5 @@
 <?php
     include 'db.php';
-    if(!isset($_SESSION['id'])){
-        header('Location:login.php');
-    }
     
     if($_SERVER["REQUEST_METHOD"]==="POST"){
         $email=$_POST['email'];

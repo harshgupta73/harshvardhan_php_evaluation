@@ -28,7 +28,7 @@
             </div>';
             
         }
-        else if($password!=$cpassword){
+        else if($_POST['password']!=$cpassword){
             echo '<div
                 class="alert alert-primary alert-dismissible fade show"
                 role="alert"
